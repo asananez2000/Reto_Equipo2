@@ -9,7 +9,7 @@ Exercises
 
 """
 
-from random import randrange
+from random import random, randrange, choice
 from turtle import *
 from freegames import vector
 
@@ -35,11 +35,11 @@ def draw():
 
     for target in targets:
         goto(target.x, target.y)
-        dot(20, 'blue')
+        dot(30, choice(['blue', 'purple', 'magenta', 'green', 'cyan', 'yellow', 'orange']))
 
     if inside(ball):
         goto(ball.x, ball.y)
-        dot(6, 'red')
+        dot(10, 'red')
 
     update()
 
