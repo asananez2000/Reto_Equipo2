@@ -1,4 +1,8 @@
 # Reto_Equipo2
+## Integrantes del Equipo
+- Andreína Sanánez <br>
+- Tonatiuh Reyes <br>
+- Guillermo Nuñez <br>
 
 ## **Descripción del Proyecto**<br>
 En este repositorio se encuentra el proyecto final de la Semana Tec "Herramientas computacionales: el arte de la programación", el cual consiste en la modificación de diversos juegos programados en Python y particularmente en la colaboración e integración de los mismos. <br>
@@ -31,7 +35,7 @@ Como parte de mi colaboración para la entrega final modifiqué los siguientes a
     
  ##
 -	**Tonatiuh Reyes / A01025459** <br>
-Como parte de mi colaboración para la entrega final modifiqué los siguientes archivos: <br>
+Entre las modificaciones realizadas por mi parte para la entrega final, se encuentran las siguientes: <br>
 
     •	`cannon.py` : Modifique las variables de las velocidades en "y" tanto en los objetivos como en la pelota. De modo que a los primeros se les agrego un factor de "Gravedad" en su movimiento y al segundo, que varie por tiro la gravedad de este.<br>
     
