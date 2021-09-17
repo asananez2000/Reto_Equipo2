@@ -28,3 +28,12 @@ Como parte de mi colaboración para la entrega final modifiqué los siguientes a
     •	`canon.py` : en el cual generé una lista de colores que se selecciona aleatoriamente para que los targets cambien de color de forma intermitente, así como aumente el tamaño de       dichos targets y de la pelota.<br>
     
     •	`snake.py`: en este programa, añadí una variable “speed” para aumentar la velocidad de la serpiente e incrementar la dificultad del juego. <br>
+    
+ ##
+-	**Tonatiuh Reyes / A01025459** <br>
+Como parte de mi colaboración para la entrega final modifiqué los siguientes archivos: <br>
+
+    •	`cannon.py` : Modifique las variables de las velocidades en "y" tanto en los objetivos como en la pelota. De modo que a los primeros se les agrego un factor de "Gravedad" en su movimiento y al segundo, que varie por tiro la gravedad de este.<br>
+    
+    •	`snake.py`: en este programa, añadí una variable “speed” para aumentar la velocidad de la serpiente e incrementar la dificultad del juego. <br>
+
