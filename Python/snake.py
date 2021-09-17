@@ -13,9 +13,10 @@ from turtle import *
 from random import randrange
 from freegames import square, vector
 
+speed = 15
 food = vector(0, 0)
-snake = [vector(10, 0)]
-aim = vector(0, -10)
+snake = [vector(speed, 0)]
+aim = vector(0, -speed)
 
 def change(x, y):
     "Change snake direction."
@@ -40,8 +41,8 @@ def move():
 
     if head == food:
         print('Snake:', len(snake))
-        food.x = randrange(-15, 15) * 10
-        food.y = randrange(-15, 15) * 10
+        food.x = randrange(-15, 15) * speed
+        food.y = randrange(-15, 15) * speed
     else:
         snake.pop(0)
 
@@ -58,9 +59,9 @@ setup(420, 420, 370, 0)
 hideturtle()
 tracer(False)
 listen()
-onkey(lambda: change(10, 0), 'Right')
-onkey(lambda: change(-10, 0), 'Left')
-onkey(lambda: change(0, 10), 'Up')
-onkey(lambda: change(0, -10), 'Down')
+onkey(lambda: change(speed, 0), 'Right')
+onkey(lambda: change(-speed, 0), 'Left')
+onkey(lambda: change(0, speed), 'Up')
+onkey(lambda: change(0, -speed), 'Down')
 move()
 done()
