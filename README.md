@@ -38,9 +38,9 @@ Como parte de mi colaboración para la entrega final modifiqué los siguientes a
 -	**Guillermo Nunez / A01025459** <br>
 Como parte de mi colaboración para la entrega final modifiqué los siguientes archivos: <br>
 
-    •	`pacman.py` : Modified the board so as to add a new side path for Pacman to travel through.<br>
+    •	`pacman.py` : Modifiqué el tablero para agregar un nuevo camino lateral para que Pacman viajara. <br>
 
-    •	`pacman.py` : Added two new ghosts to chase pacman.<br>
-    
-    •	`pacman.py` : Modified the y value of Pacman's starting point so that he starts closer to the center.<br>
+    •	`pacman.py` : Agregué dos nuevos fantasmas para perseguir a Pacman y hacer el juego un poco más difícil.. <br>
+
+    •	`pacman.py` : Modifiqué el valor y del punto de partida de Pac Man para que comience más cerca del centro. <br>
     
