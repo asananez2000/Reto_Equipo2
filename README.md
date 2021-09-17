@@ -27,9 +27,9 @@ Para poder correr los programas del presente repositorio es necesario tener inst
 ## Aportaciones de los Integrantes del Equipo
 -	**Andreína Sanánez / A01024927** <br>
 Como parte de mi colaboración para la entrega final modifiqué los siguientes archivos: <br>
-    •	`memory.py`: en el cual le agregué comentarios a cada sección del programa y cree las variables grid_dim y sqr_len para no solo cambiar las dimensiones de la cuadrícula a           una de 4x4, sino para facilitar cambios de estas en el futuro. <br>
+    •	`memory.py`: en el cual le agregué comentarios a cada sección del programa y creé las variables grid_dim y sqr_len para no solo cambiar las dimensiones de la cuadrícula a           una de 4x4, sino para facilitar cambios de estas en el futuro. <br>
     
-    •	`canon.py` : en el cual generé una lista de colores que se selecciona aleatoriamente para que los targets cambien de color de forma intermitente, así como aumente el tamaño de       dichos targets y de la pelota.<br>
+    •	`canon.py` : en el cual generé una lista de colores que se selecciona aleatoriamente para que los targets cambien de color de forma intermitente, así como aumenté el tamaño de       dichos targets y de la pelota.<br>
     
     •	`snake.py`: en este programa, añadí una variable “speed” para aumentar la velocidad de la serpiente e incrementar la dificultad del juego. <br>
     
