@@ -39,6 +39,8 @@ Como parte de mi colaboración para la entrega final modifiqué los siguientes a
 Como parte de mi colaboración para la entrega final modifiqué los siguientes archivos: <br>
 
     •	`pacman.py` : Modified the board so as to add a new side path for Pacman to travel through.<br>
+
     •	`pacman.py` : Added two new ghosts to chase pacman.<br>
+    
     •	`pacman.py` : Modified the y value of Pacman's starting point so that he starts closer to the center.<br>
     
