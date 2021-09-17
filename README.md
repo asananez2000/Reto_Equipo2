@@ -35,5 +35,3 @@ Como parte de mi colaboración para la entrega final modifiqué los siguientes a
 
     •	`cannon.py` : Modifique las variables de las velocidades en "y" tanto en los objetivos como en la pelota. De modo que a los primeros se les agrego un factor de "Gravedad" en su movimiento y al segundo, que varie por tiro la gravedad de este.<br>
     
-    •	`snake.py`: en este programa, añadí una variable “speed” para aumentar la velocidad de la serpiente e incrementar la dificultad del juego. <br>
-
