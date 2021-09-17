@@ -38,4 +38,11 @@ Como parte de mi colaboración para la entrega final modifiqué los siguientes a
 Entre las modificaciones realizadas por mi parte para la entrega final, se encuentran las siguientes: <br>
 
     •	`cannon.py` : Modifique las variables de las velocidades en "y" tanto en los objetivos como en la pelota. De modo que a los primeros se les agrego un factor de "Gravedad" en su movimiento y al segundo, que varie por tiro la gravedad de este.<br>
+##
+-	**Guillermo Nunez / A01025459** <br>
+Como parte de mi colaboración para la entrega final modifiqué los siguientes archivos: <br>
+
+    •	`pacman.py` : Modified the board so as to add a new side path for Pacman to travel through.<br>
+    •	`pacman.py` : Added two new ghosts to chase pacman.<br>
+    •	`pacman.py` : Modified the y value of Pacman's starting point so that he starts closer to the center.<br>
     
